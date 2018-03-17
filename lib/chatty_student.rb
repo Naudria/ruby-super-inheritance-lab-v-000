@@ -1,4 +1,5 @@
-class ChattyStudent
+class ChattyStudent < Student
 
+  def 
 
 end
